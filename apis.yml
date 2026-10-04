@@ -39,7 +39,6 @@ apis:
   - name: PlaceBear
     description: "Placeholder bear pictures"
     humanURL: https://placebear.com/
-    baseURL: https://placebear.com/
     tags:
       - Animals
     properties:
